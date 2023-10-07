@@ -1,4 +1,4 @@
-# Data-Science-Portofolio
+# Data-Analysis-Portofolio
 
 this is my portofolio and i have worked on many projects, 
 you can explore it:
