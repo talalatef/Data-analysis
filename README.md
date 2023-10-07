@@ -12,7 +12,7 @@ and that proven my knowldge as data analyist and data scientist,
 if you find this repo is useful and find that help in your work,
 contact me:
 
-- LinkedIn : (Profile)[https://www.linkedin.com/in/talal-atef-997580204/]
-- Medium : (profile)[https://medium.com/@talal.atef.801]
+- LinkedIn : [Profile](https://www.linkedin.com/in/talal-atef-997580204/)
+- Medium : [profile](https://medium.com/@talal.atef.801)
 
 Thank you for your exploring.
